@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: demo-1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: gouri
+Implementation-Vendor-Id: com.ibm.security
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/security-authorization-server
+Created-By: Maven Integration for Eclipse
+

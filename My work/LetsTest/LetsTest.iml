@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/apache-mime4j-0.6.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.icu_4.4.2.v20110823.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.rational.wvcm.ct_3.0.1200.v20161206_1803.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.rational.wvcm.factory_3.0.400.v20161206_1803.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.rational.wvcm.interop_3.1.1000.v20161206_1803.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.rational.wvcm.ri.repo_3.0.900.v20161206_1803.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.build.client_3.0.1500.v20170420_1859.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.build.common_3.1.1600.v20170925_1637.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.calm.foundation.common_3.1.1500.v20171022_1552.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.connector.scm.client_3.0.1300.v20161206_1803.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.connector.scm.common_3.1.500.v20170613_0129.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.connector.scm.operations_3.1.700.v20161206_1803.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.datawarehouse.common_2.2.3000.v20171025_0017.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.dev.jdojo.runtime.common_3.0.1100.v20170613_0129.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.enterprise.buildablesubset.client_3.1.900.v20161206_1803.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.enterprise.buildablesubset.common_3.1.1200.v20170613_0129.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.enterprise.scd.client_1.1.0.v20161102_2211.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.enterprise.scd.common_1.1.100.v20171020_1633.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.filesystem.client.1.7.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.filesystem.client.daemon_3.1.1000.v20171018_0210.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.filesystem.client.workitems_3.1.1300.v20170628_0309.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.filesystem.client_3.2.1000.v20171026_0239.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.filesystem.common.workitems_3.1.1200.v20170824_1555.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.filesystem.common_3.2.1000.v20171001_1635.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.foundation.client_1.1.2000.v20170413_2241.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.foundation.common_1.3.4000.v20170413_2233.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.foundation.rcp.core_1.1.4000.v20170413_2241.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.fulltext.common_1.2.3000.v20170906_0017.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.interop.client.rest_3.0.900.v20170613_0129.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.interop.client_3.0.900.v20161206_1803.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.interop.common_3.0.1200.v20170613_0129.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.process.client_1.3.3000.v20170413_2241.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.process.common_1.3.4000.v20171003_0213.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.reports.client_2.1.2000.v20170413_2241.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.reports.common_2.4.3000.v20171025_0017.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.repository.client_1.3.3000.v20170913_0038.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.repository.common.json_1.2.3000.v20171025_0017.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.repository.common.remoteaccess.auth_1.3.3000.v20171025_0017.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.repository.common.remoteaccess_1.2.4000.v20170906_0017.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.repository.common.serialize_1.2.4000.v20171025_0017.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.repository.common.transport_1.2.2000.v20171025_0017.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.repository.common_1.4.4000.v20171031_1821.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.repository.rcp.common_3.1.900.v20170613_0129.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.rtc.common_3.1.1700.v20171013_0240.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.rtc.foundation.api.common_3.1.1000.v20170613_0129.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.scm.admin.common_3.2.400.v20170613_0129.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.scm.client_3.2.1000.v20170929_0134.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.scm.common_3.2.1000.v20171022_1552.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.workitem.api.common_3.1.1300.v20170811_1441.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.workitem.client_3.1.1700.v20170827_1657.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.workitem.common_3.2.900.v20170928_1641.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/commons-io-1.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/httpclient-4.5.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/httpclient-cache-4.5.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/httpclient-win-4.5.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/httpcore-4.4.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/httpcore-ab-4.4.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/httpcore-nio-4.4.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/httpmime-4.5.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/javax.servlet_3.0.0.v201112011016.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/javax.wvcm_1.7.0.v20161102_2211.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/net.oauth_0.2.3000.v20170718_1537.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.apache.commons.codec_1.9.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.apache.commons.httpclient_3.1.0.v201012070820.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.apache.commons.logging_1.0.4.v201101211617.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.apache.log4j_1.2.15.v201012070815.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.core.filesystem_1.3.200.v20130115-145044.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.core.jobs_3.5.300.v20120912-155018.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.core.resources_3.8.1.v20121114-124432.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.core.runtime_3.8.0.v20120912-155025.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.emf.common_2.8.0.v20130125-0546.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.emf.ecore.change_2.8.0.v20130125-0546.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.emf.ecore.xmi_2.8.1.v20130125-0546.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.emf.ecore_2.8.3.v20130125-0546.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.equinox.common_3.6.100.v20120522-1841.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.equinox.preferences_3.5.1.v20121031-182809.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.equinox.registry_3.5.201.v20131009-2050.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.jface.text_3.8.2.v20121126-164145.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.jface.text_3.8.3.v20141001-2118.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.osgi_3.8.2.v20130124-134944.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.osgi_3.8.2.v20140416-1442.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.text_3.5.200.v20120523-1310.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.xsd_2.8.1.v20130125-0826.jar!/" />
+    <libelement value="file://D:/java-json.jar" />
+    <libelement value="jar://$USER_HOME$/Downloads/java-json.jar!/" />
+    <src_description expected_position="1">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="1" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="apache-mime4j-0.6.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/apache-mime4j-0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.icu_4.4.2.v20110823.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.icu_4.4.2.v20110823.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.rational.wvcm.ct_3.0.1200.v20161206_1803.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.rational.wvcm.ct_3.0.1200.v20161206_1803.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.rational.wvcm.factory_3.0.400.v20161206_1803.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.rational.wvcm.factory_3.0.400.v20161206_1803.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.rational.wvcm.interop_3.1.1000.v20161206_1803.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.rational.wvcm.interop_3.1.1000.v20161206_1803.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.rational.wvcm.ri.repo_3.0.900.v20161206_1803.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.rational.wvcm.ri.repo_3.0.900.v20161206_1803.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.build.client_3.0.1500.v20170420_1859.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.build.client_3.0.1500.v20170420_1859.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.build.common_3.1.1600.v20170925_1637.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.build.common_3.1.1600.v20170925_1637.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.build.common_3.1.1600.v20170925_1637.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.calm.foundation.common_3.1.1500.v20171022_1552.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.calm.foundation.common_3.1.1500.v20171022_1552.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.connector.scm.client_3.0.1300.v20161206_1803.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.connector.scm.client_3.0.1300.v20161206_1803.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.connector.scm.common_3.1.500.v20170613_0129.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.connector.scm.common_3.1.500.v20170613_0129.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.connector.scm.operations_3.1.700.v20161206_1803.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.connector.scm.operations_3.1.700.v20161206_1803.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.datawarehouse.common_2.2.3000.v20171025_0017.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.datawarehouse.common_2.2.3000.v20171025_0017.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.dev.jdojo.runtime.common_3.0.1100.v20170613_0129.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.dev.jdojo.runtime.common_3.0.1100.v20170613_0129.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.enterprise.buildablesubset.client_3.1.900.v20161206_1803.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.enterprise.buildablesubset.client_3.1.900.v20161206_1803.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.enterprise.buildablesubset.common_3.1.1200.v20170613_0129.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.enterprise.buildablesubset.common_3.1.1200.v20170613_0129.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.enterprise.scd.client_1.1.0.v20161102_2211.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.enterprise.scd.client_1.1.0.v20161102_2211.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.enterprise.scd.common_1.1.100.v20171020_1633.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.enterprise.scd.common_1.1.100.v20171020_1633.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.filesystem.client.1.7.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.filesystem.client.1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.filesystem.client.daemon_3.1.1000.v20171018_0210.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.filesystem.client.daemon_3.1.1000.v20171018_0210.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.filesystem.client.workitems_3.1.1300.v20170628_0309.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.filesystem.client.workitems_3.1.1300.v20170628_0309.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.filesystem.client_3.2.1000.v20171026_0239.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.filesystem.client_3.2.1000.v20171026_0239.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.filesystem.common.workitems_3.1.1200.v20170824_1555.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.filesystem.common.workitems_3.1.1200.v20170824_1555.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.filesystem.common_3.2.1000.v20171001_1635.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.filesystem.common_3.2.1000.v20171001_1635.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.foundation.client_1.1.2000.v20170413_2241.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.foundation.client_1.1.2000.v20170413_2241.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.foundation.common_1.3.4000.v20170413_2233.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.foundation.common_1.3.4000.v20170413_2233.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.foundation.rcp.core_1.1.4000.v20170413_2241.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.foundation.rcp.core_1.1.4000.v20170413_2241.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.fulltext.common_1.2.3000.v20170906_0017.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.fulltext.common_1.2.3000.v20170906_0017.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.interop.client.rest_3.0.900.v20170613_0129.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.interop.client.rest_3.0.900.v20170613_0129.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.interop.client_3.0.900.v20161206_1803.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.interop.client_3.0.900.v20161206_1803.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.interop.common_3.0.1200.v20170613_0129.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.interop.common_3.0.1200.v20170613_0129.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.process.client_1.3.3000.v20170413_2241.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.process.client_1.3.3000.v20170413_2241.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.process.common_1.3.4000.v20171003_0213.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.process.common_1.3.4000.v20171003_0213.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.reports.client_2.1.2000.v20170413_2241.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.reports.client_2.1.2000.v20170413_2241.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.reports.common_2.4.3000.v20171025_0017.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.reports.common_2.4.3000.v20171025_0017.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.repository.client_1.3.3000.v20170913_0038.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.repository.client_1.3.3000.v20170913_0038.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.repository.common.json_1.2.3000.v20171025_0017.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.repository.common.json_1.2.3000.v20171025_0017.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.repository.common.remoteaccess.auth_1.3.3000.v20171025_0017.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.repository.common.remoteaccess.auth_1.3.3000.v20171025_0017.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.repository.common.remoteaccess_1.2.4000.v20170906_0017.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.repository.common.remoteaccess_1.2.4000.v20170906_0017.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.repository.common.serialize_1.2.4000.v20171025_0017.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.repository.common.serialize_1.2.4000.v20171025_0017.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.repository.common.transport_1.2.2000.v20171025_0017.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.repository.common.transport_1.2.2000.v20171025_0017.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.repository.common_1.4.4000.v20171031_1821.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.repository.common_1.4.4000.v20171031_1821.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.repository.rcp.common_3.1.900.v20170613_0129.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.repository.rcp.common_3.1.900.v20170613_0129.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.rtc.common_3.1.1700.v20171013_0240.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.rtc.common_3.1.1700.v20171013_0240.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.rtc.foundation.api.common_3.1.1000.v20170613_0129.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.rtc.foundation.api.common_3.1.1000.v20170613_0129.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.scm.admin.common_3.2.400.v20170613_0129.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.scm.admin.common_3.2.400.v20170613_0129.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.scm.client_3.2.1000.v20170929_0134.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.scm.client_3.2.1000.v20170929_0134.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.scm.common_3.2.1000.v20171022_1552.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.scm.common_3.2.1000.v20171022_1552.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.workitem.api.common_3.1.1300.v20170811_1441.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.workitem.api.common_3.1.1300.v20170811_1441.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.workitem.client_3.1.1700.v20170827_1657.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.workitem.client_3.1.1700.v20170827_1657.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.team.workitem.common_3.2.900.v20170928_1641.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/com.ibm.team.workitem.common_3.2.900.v20170928_1641.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-1.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/commons-io-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-4.5.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/httpclient-4.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-cache-4.5.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/httpclient-cache-4.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-win-4.5.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/httpclient-win-4.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-4.4.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/httpcore-4.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-ab-4.4.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/httpcore-ab-4.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-nio-4.4.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/httpcore-nio-4.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpmime-4.5.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/httpmime-4.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.servlet_3.0.0.v201112011016.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/javax.servlet_3.0.0.v201112011016.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.wvcm_1.7.0.v20161102_2211.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/javax.wvcm_1.7.0.v20161102_2211.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="net.oauth_0.2.3000.v20170718_1537.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/net.oauth_0.2.3000.v20170718_1537.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.apache.commons.codec_1.9.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.apache.commons.codec_1.9.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.apache.commons.httpclient_3.1.0.v201012070820.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.apache.commons.httpclient_3.1.0.v201012070820.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.apache.commons.logging_1.0.4.v201101211617.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.apache.commons.logging_1.0.4.v201101211617.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.apache.log4j_1.2.15.v201012070815.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.apache.log4j_1.2.15.v201012070815.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.core.filesystem_1.3.200.v20130115-145044.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.core.filesystem_1.3.200.v20130115-145044.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.core.jobs_3.5.300.v20120912-155018.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.core.jobs_3.5.300.v20120912-155018.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.core.resources_3.8.1.v20121114-124432.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.core.resources_3.8.1.v20121114-124432.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.core.runtime_3.8.0.v20120912-155025.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.core.runtime_3.8.0.v20120912-155025.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.emf.common_2.8.0.v20130125-0546.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.emf.common_2.8.0.v20130125-0546.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.emf.ecore.change_2.8.0.v20130125-0546.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.emf.ecore.change_2.8.0.v20130125-0546.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.emf.ecore.xmi_2.8.1.v20130125-0546.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.emf.ecore.xmi_2.8.1.v20130125-0546.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.emf.ecore_2.8.3.v20130125-0546.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.emf.ecore_2.8.3.v20130125-0546.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.equinox.common_3.6.100.v20120522-1841.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.equinox.common_3.6.100.v20120522-1841.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.equinox.preferences_3.5.1.v20121031-182809.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.equinox.preferences_3.5.1.v20121031-182809.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.equinox.registry_3.5.201.v20131009-2050.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.equinox.registry_3.5.201.v20131009-2050.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.jface.text_3.8.2.v20121126-164145.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.jface.text_3.8.2.v20121126-164145.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.jface.text_3.8.3.v20141001-2118.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.jface.text_3.8.3.v20141001-2118.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.osgi_3.8.2.v20130124-134944.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.osgi_3.8.2.v20130124-134944.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.osgi_3.8.2.v20140416-1442.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.osgi_3.8.2.v20140416-1442.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.text_3.5.200.v20120523-1310.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.text_3.5.200.v20120523-1310.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.xsd_2.8.1.v20130125-0826.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jazz jars/org.eclipse.xsd_2.8.1.v20130125-0826.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="java-json.jar">
+        <CLASSES>
+          <root url="file://D:/java-json.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/java-json.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/java-json.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

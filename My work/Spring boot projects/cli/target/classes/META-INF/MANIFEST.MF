@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: cli
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: gouri
+Implementation-Vendor-Id: com.example.gsa
+Build-Jdk: 1.8.0_172
+Implementation-URL: http://projects.spring.io/spring-boot/cli/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
